@@ -1,7 +1,7 @@
-# Sustainable Development Goals (SDGs) Website Theme
+# Sustainable Development Goals (SDG) - Theme
 
-This Jekyll theme is designed to work with the SDGs national reporting platform.
+This is a platform for collecting and disseminating data for the Sustainable Development Goal global indicators.
 
-## Installation
+## Documentation
 
-It is assumed this theme is being used via the `remote_theme` setting from the sdg-indicators repository.
+See the [docs folder](docs/index.md) for more information.

@@ -24,6 +24,9 @@
       scales: {
         yAxes: [{
           ticks: {
+            // Set the minimum to -1 so that the bars will start from the
+            // middle and either go up (for 1) or down (for -1).
+            min: -1,
             callback: function(value, index, values) {
                 if (value == 1) {
                   return 'Yes';
